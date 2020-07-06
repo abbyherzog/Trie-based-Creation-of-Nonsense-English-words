@@ -1,0 +1,2 @@
+# Trie-based-Creation-of-Nonsense-English-words
+Honors Project for my university class called "Introduction to Algorithms and Data Structures." This project was written by Daniel Kluver, and designed to challenge knowledge of data structures. The project asks that I create a program that will generate words that look like English, but are actually nonsense. The program trains a Markov model based on a given verb list, and then uses that model to generate new words.
